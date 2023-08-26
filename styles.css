@@ -1,0 +1,26 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.main-container {
+    width: 1440px;
+}
+
+.text {
+    font-size: 15px;
+    font-family: "Outfit";
+}
+
+.large-text {
+    font-weight: 700;
+    font-style: bold;
+}
+
+.small-text {
+    font-weight: 400;
+}
